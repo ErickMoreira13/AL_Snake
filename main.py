@@ -250,11 +250,7 @@ while not done:
             "",
             "Difícil: analogo a dificuldade medio, porém há tambem uma",
             "maçã especial que pode redimensionar o campo da serpente,",
-            "podendo aumentar ou diminuir.",
-            "",
-            "Projeto mediado pelo professor da UNIR - Porto Velho: Lucas Marques",
-            "",
-            "Desenvolvido por: Ana Júlia, Erick Moreira, Nataly Tobias",
+            "podendo aumentar ou diminuir."
         ]
 
         count = 25
