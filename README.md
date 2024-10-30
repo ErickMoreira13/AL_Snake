@@ -1,10 +1,3 @@
-# Desenvolvedores: 
-<b>Ana Júlia, Erick Moreira, Nataly Tobias</b>
-<br/>
-
-# Projeto ministrado por:
-Lucas Marques da Cunha   
-<br/>
 ![image](https://github.com/user-attachments/assets/2bc8620f-dcb9-4ed9-887e-9a56c725cd36)
 
 # Dificuldades:
